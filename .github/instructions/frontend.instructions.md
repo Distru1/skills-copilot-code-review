@@ -2,7 +2,7 @@
 applyTo: "*.html,*.css,*.js"
 ---
 
-## Frontend Guidelines
+## Frontend guidelines
 
 - Use accessibility attributes (alt text, aria labels) and color schemes.
 - Use responsive design for compatibility with mobile devices.

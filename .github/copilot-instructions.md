@@ -4,7 +4,7 @@
 - Search for risks that might expose user data.
 - Prefer loading configuration and content from the database instead of hard coded content. If absolutely necessary, load it from environment variables or a non-committed config file.
 
-## Code Quality
+## Code quality
 
 - Use consistent naming conventions.
 - Try to reduce code duplication.
